@@ -1,0 +1,3 @@
+nombre: MarioCodeHub
+correo: mario_riivera@hotmail.com
+profesion: arquitecto de software
